@@ -1,2 +1,1 @@
-# landing.rahisi
-Created with CodeSandbox
+# Practice with Tailwind
